@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Europe/Bucharest');
+date_default_timezone_set('Asia/Dhaka');
 
 /**
  * CodeIgniter
